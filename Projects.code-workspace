@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "book-crud",
+			"path": "book-crud/book-crud"
+		}
+	],
+	"settings": {}
+}
